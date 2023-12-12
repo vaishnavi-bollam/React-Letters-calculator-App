@@ -1,0 +1,28 @@
+/* Write your code here. */
+.main-bg {
+  background-color: #1d976c;
+  color: white;
+  display: flex;
+  height: 100vh;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+img {
+  height: 400px;
+  width: 500px;
+}
+
+.button {
+  background-color: white;
+  color: #219a6f;
+  padding: 20px;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  height: 80px;
+  width: 150px;
+  text-align: center;
+}
